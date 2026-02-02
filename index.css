@@ -19,7 +19,7 @@ body {
     text-align: center;
     background-color: rgba(255, 255, 255, 0.1);
     width:300px;
-    height: 375px;
+    height: 420px;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
 
@@ -38,7 +38,7 @@ body {
 }
 
 .btn:active {
-    width:50px
+    width:43px
 }
 
 h1, h2, h3, h4, h5, h6, p {
